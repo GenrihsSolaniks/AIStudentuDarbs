@@ -1,0 +1,2 @@
+# AIStudentuDarbs
+AIStudentuDarbs RTU iestadne
